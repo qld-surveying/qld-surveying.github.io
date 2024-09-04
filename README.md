@@ -1,5 +1,5 @@
 # Queensland Surveying Reference
-## Titling & Tenure
+## Titles & Tenure
 ### Legislation
 
 ### Directions for the Preperation of Plans & Sketches
