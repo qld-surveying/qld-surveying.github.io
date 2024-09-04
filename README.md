@@ -29,3 +29,17 @@
 
 ### Searching
 
+## Mining
+### Legislation
+
+### Standards & Guidelines
+
+### Searching
+
+## Hydrographic
+### Legislation
+
+### Standards & Guidelines
+
+### Searching
+
