@@ -18,7 +18,7 @@
 ## Titling & Tenure
 ### Legislation
 
-### Directions for the Preperation of Plans & Sketchs
+### Directions for the Preperation of Plans & Sketches
 
 ### Land Title Practice Manual
 
