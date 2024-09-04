@@ -1,8 +1,10 @@
 # Queensland Surveying Reference
-## Geodesy
+## Titling & Tenure
 ### Legislation
 
-### Standards & Guidelines
+### Directions for the Preperation of Plans & Sketches
+
+### Land Title Practice Manual
 
 ### Searching
 
@@ -15,12 +17,12 @@
 
 ### Metric Conversion
 
-## Titling & Tenure
+## Geodesy
 ### Legislation
 
-### Directions for the Preperation of Plans & Sketches
+### Standards & Guidelines
 
-### Land Title Practice Manual
+### Searching
 
 ## Engineering & Construction
 ### Legislation
