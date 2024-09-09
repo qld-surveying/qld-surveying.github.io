@@ -15,6 +15,8 @@
 ### Searching
 [Online Title and Image Searches (OTIS)](https://www.titlesqld.com.au/title-searches/)
 
+[SmartMap](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916)
+
 ## Cadastral
 ### Legislation
 [Survey and Mapping Infrastructure Act 2003](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-071) / [Survey and Mapping Infrastructure Regulation 2024](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2024-0144)
@@ -27,8 +29,9 @@
 ### Searching
 [Online Title and Image Searches (OTIS)](https://www.titlesqld.com.au/title-searches/)
 
-[QldGlobe - Surveying Topic](https://qldglobe.information.qld.gov.au/?topic=surveying)
+[SmartMap](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916)
 
+[QldGlobe - Surveying Topic](https://qldglobe.information.qld.gov.au/?topic=surveying)
 
 ### Metric Conversion
 [Metric conversion tool](https://www.industry.gov.au/publications/metric-conversion-tool)
