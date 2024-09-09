@@ -7,7 +7,7 @@
 
 [Body Corporate and Community Management Act 1997](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028)
 
-### Directions for the Preperation of Plans, Sketches & the Land Title Practice Manual
+### Directions for the Preperation of Plans, Sketches & Land Title Practice Manual
 [Registrar of Titles directions for the preparation of plans](https://www.titlesqld.com.au/plans-sketches/)
  
 [Land Title Practice Manual](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/)
@@ -40,21 +40,43 @@
 ### Standards & Guidelines
 
 ### Searching
-[Continuously Operating Reference Station (CORS)](https://portal.ga.gov.au/persona/pa)
+[Continuously Operating Reference Stations (CORS)](https://portal.ga.gov.au/persona/pa)
 
 [Permanent Survey Mark (PSM)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf)
 
-### Standards & Guidelines
+[QldGlobe - Surveying Topic](https://qldglobe.information.qld.gov.au/?topic=surveying)
 
-### Searching
+### Standards & Guidelines
+[Australian Geospatial Reference System Compendium](https://www.icsm.gov.au/publications/australian-geospatial-reference-system-compendium)
+
+[ICSM Standard for the Australian Survey Control Network (SP1)](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1)
+
+[Geocentric Datum of Australia 2020 (GDA2020) Technical Manual](https://www.icsm.gov.au/gda2020-and-gda94-technical-manuals)
+
+[Calibration of survey equipment](https://www.business.qld.gov.au/industries/building-property-development/surveying/calibration-equipment)
 
 ### GNSS Processing
-Pre
+Pre Processing
 
-Post & Real time
+[GFZRNX](https://gnss.gfz-potsdam.de/services/gfzrnx)
+
+[RINGO](https://terras.gsi.go.jp/software/ringo/en/)
+
+[RNXCMP](https://gnss.gfz-potsdam.de/services/gfzrnx)
+
+Post & Real-time Processing
+
+[Ginan](https://linktr.ee/ginan_GA)
+
+[AusPos](https://gnss.ga.gov.au/auspos)
 
 ### Adjustment & Transformation 
 
+[DynAdjust](https://github.com/icsm-au/DynAdjust)
+
+[AGRS tools, models and resources](https://www.ga.gov.au/scientific-topics/positioning-navigation/australian-geospatial-reference-system/agrstoolsandmodels)
+
+[GeodePy](https://github.com/GeoscienceAustralia/GeodePy)
 
 
 
