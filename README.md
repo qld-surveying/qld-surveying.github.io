@@ -48,11 +48,9 @@
 
 ### Searching
 
-### Pre Processing
+### Pre, Post & Real-time Processing
 
-### Real Time & Post Processing
-
-### Transformations
+### Adjustment & Transformation 
 
 
 
