@@ -32,13 +32,14 @@
 
 ## Geodesy & Metrology
 ### Legislation
+[National Measurement Act 1960](https://www.legislation.gov.au/C1960A00064/latest/)
 
 ### Standards & Guidelines
 
 ### Searching
 [Continuously Operating Reference Station (CORS)](https://portal.ga.gov.au/persona/pa)
 
-[Permanent Survey Mark (PSM)](https://qspatial.information.qld.gov.au/SurveyReport/SCR201168.pdf)
+[Permanent Survey Mark (PSM)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf)
 
 ### Standards & Guidelines
 
