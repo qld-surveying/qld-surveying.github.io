@@ -1,4 +1,3 @@
-# Queensland Surveying Reference
 ## Title & Tenure
 ### Legislation
 [Land Act 1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-081) 
