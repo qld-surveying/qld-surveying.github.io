@@ -17,3 +17,5 @@
 [DynAdjust](https://github.com/icsm-au/DynAdjust)
 
 [AGRS tools, models and resources](https://www.ga.gov.au/scientific-topics/positioning-navigation/australian-geospatial-reference-system/agrstoolsandmodels)
+
+[GeodePy](https://github.com/GeoscienceAustralia/GeodePy)
