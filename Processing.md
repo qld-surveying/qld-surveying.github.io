@@ -6,7 +6,7 @@
 
 [RNXCMP](https://gnss.gfz-potsdam.de/services/gfzrnx)
 
-## GNSS Post & Real-time Processing
+## GNSS Real-time & Post Processing
 
 [Ginan](https://linktr.ee/ginan_GA)
 
