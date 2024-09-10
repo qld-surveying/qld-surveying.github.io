@@ -1,12 +1,12 @@
 # Processing
-## Pre Processing
+## GNSS Pre Processing
 [GFZRNX](https://gnss.gfz-potsdam.de/services/gfzrnx)
 
 [RINGO](https://terras.gsi.go.jp/software/ringo/en/)
 
 [RNXCMP](https://gnss.gfz-potsdam.de/services/gfzrnx)
 
-##Post & Real-time Processing
+## GNSS Post & Real-time Processing
 
 [Ginan](https://linktr.ee/ginan_GA)
 
