@@ -1,4 +1,11 @@
 # Queensland Surveying Reference
+## Quick Links
+[CSR](https://www.resources.qld.gov.au/?a=109113:policy_registry/cadastral-survey-requirements.pdf) [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/)
+
+[QldGlobe (Surveying)](https://qldglobe.information.qld.gov.au/?topic=surveying) [OTIS](https://search.titlesqld.com.au/product-search) [SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916) 
+
+[PSM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf)
+
 ## Title & Tenure
 ### Legislation
 [Land Act 1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-081) 
@@ -8,14 +15,14 @@
 [Body Corporate and Community Management Act 1997](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028)
 
 ### Directions for the Preperation of Plans, Sketches & Land Title Practice Manual
-[Registrar of Titles directions for the preparation of plans](https://www.titlesqld.com.au/plans-sketches/)
+[Registrar of Titles directions for the preparation of plans (RTDPP)](https://www.titlesqld.com.au/plans-sketches/)
  
-[Land Title Practice Manual](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/)
+[Land Title Practice Manual(LTPM)](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/)
 
 ### Searching
 [Online Title and Image Searches (OTIS)](https://www.titlesqld.com.au/title-searches/)
 
-[SmartMap](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916)
+[SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916)
 
 ## Cadastral
 ### Legislation
@@ -31,7 +38,7 @@
 
 [SmartMap](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916)
 
-[QldGlobe - Surveying Topic](https://qldglobe.information.qld.gov.au/?topic=surveying)
+[QldGlobe - Surveying topic](https://qldglobe.information.qld.gov.au/?topic=surveying)
 
 ### Metric Conversion
 [Metric conversion tool](https://www.industry.gov.au/publications/metric-conversion-tool)
