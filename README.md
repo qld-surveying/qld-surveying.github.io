@@ -1,9 +1,9 @@
 # Queensland Surveying Reference
 ## Quick Links
-Dir & Std [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)  [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) [SP1](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1) [Metric conversion](https://www.industry.gov.au/publications/metric-conversion-tool)
+Directions & Standards [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)  [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) [SP1](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1) [Metric conversion](https://www.industry.gov.au/publications/metric-conversion-tool)
 
 
-Search [QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) [SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916) [OTIS](https://search.titlesqld.com.au/product-search) [PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf) [CORS(GA)](https://portal.ga.gov.au/persona/pa)
+Searching [QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) [SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916) [OTIS](https://search.titlesqld.com.au/product-search) [PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf) [CORS(GA)](https://portal.ga.gov.au/persona/pa)
 
 Acts [LA1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-081) [LTA1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-011) [SMIA2003](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-071) [SA2024](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-070) [BCCMA1997](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028) [PA2016](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025) [PLA1974](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1974-076) [BUGTA1980](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1980-042)
 
