@@ -1,6 +1,7 @@
 # Queensland Surveying Reference
 ## Quick Links
-Dir & Std [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)  [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) [SP1](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1)
+Dir & Std [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)  [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) [SP1](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1) [Metric conversion](https://www.industry.gov.au/publications/metric-conversion-tool)
+
 
 Search [QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) [SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916) [OTIS](https://search.titlesqld.com.au/product-search) [PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf) [CORS(GA)](https://portal.ga.gov.au/persona/pa)
 
