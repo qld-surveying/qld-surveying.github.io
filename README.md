@@ -3,18 +3,18 @@
 ### Quick Links
 
 **Websites** &emsp; 
-[Qld Surveying](https://www.business.qld.gov.au/industries/building-property-development/surveying)
+[Qld Surveying](https://www.business.qld.gov.au/industries/building-property-development/surveying) &emsp;
 [TQ](https://www.titlesqld.com.au/)  &emsp; 
 [SBQ](https://sbq.com.au/)  &emsp; 
 
 **Search** &emsp; 
-[OTIS](https://search.titlesqld.com.au/product-search)
+[OTIS](https://search.titlesqld.com.au/product-search)  &emsp;
 [QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) &emsp; 
 [SmartMap (edit URL)](https://api.nrmmrrd.qld.gov.au/sdx-smartmap/smartmap/v1/?lot=5&plan=SP115364) &emsp; 
-[PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf)
+[PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf) &emsp;
 
 **Standards** &emsp; 
-[CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)
+[CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms) &emsp;
 [RTDPP](https://www.titlesqld.com.au/plans-sketches/) &emsp; 
 [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) &emsp;
 
@@ -25,7 +25,7 @@
 [BCCMA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028) &emsp; 
 [BUGTA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1980-042)  &emsp; 
 [PLA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2023-027) &emsp; 
-[PA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025)
+[PA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025) &emsp;
 
 ## Cadastral, Title & Tenure
 ### Legislation
