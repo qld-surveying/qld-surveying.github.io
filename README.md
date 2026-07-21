@@ -1,16 +1,31 @@
 # Queensland Surveying Reference
-## Quick Links
-Directions & Standards [RTDPP](https://www.titlesqld.com.au/plans-sketches/) [CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)  [LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) [SP1](https://www.icsm.gov.au/standard-australian-survey-control-network-special-publication-1-sp1) [Metric conversion](https://www.industry.gov.au/publications/metric-conversion-tool)
+--------------------------------
+### Quick Links
 
+**Websites** &emsp; 
+[Qld Surveying](https://www.business.qld.gov.au/industries/building-property-development/surveying)
+[TQ](https://www.titlesqld.com.au/)  &emsp; 
+[SBQ](https://sbq.com.au/)  &emsp; 
 
-Searching [QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) [SmartMap (edit URL)](https://apps.information.qld.gov.au/data/v2/Cadastre/SmartMap?lot=2&plan=SP148916) [OTIS](https://search.titlesqld.com.au/product-search) [PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf) [CORS(GA)](https://portal.ga.gov.au/persona/pa)
+**Search** &emsp; 
+[OTIS](https://search.titlesqld.com.au/product-search)
+[QldGlobe](https://qldglobe.information.qld.gov.au/?topic=surveying) &emsp; 
+[SmartMap (edit URL)](https://api.nrmmrrd.qld.gov.au/sdx-smartmap/smartmap/v1/?lot=5&plan=SP115364) &emsp; 
+[PM (edit URL)](https://qspatial.information.qld.gov.au/SurveyReport/SCR753329.pdf)
 
-Acts [LA1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-081) [LTA1994](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-011) [SMIA2003](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-071) [SA2003](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-070) [BCCMA1997](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028) [PA2016](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025) [PLA1974](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1974-076) [BUGTA1980](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1980-042)
+**Standards** &emsp; 
+[CSR](https://www.business.qld.gov.au/industries/building-property-development/surveying/standards-forms)
+[RTDPP](https://www.titlesqld.com.au/plans-sketches/) &emsp; 
+[LTPM](https://www.titlesqld.com.au/manual-guides/land-title-practice-manual/) &emsp;
 
-Regs [LR2020](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2020-0106) [LTR2022](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2022-0124) [SMIR2024](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2024-0144) [SR2024](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2024-0129) [PR2017](https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2017-0078)
-
-
-
+**[Legislation](https://www.legislation.qld.gov.au/)** &emsp; 
+[LA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-081) &emsp;
+[LTA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-011) &emsp;
+[SMIA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2003-071)  &emsp; 
+[BCCMA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1997-028) &emsp; 
+[BUGTA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-1980-042)  &emsp; 
+[PLA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2023-027) &emsp; 
+[PA](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025)
 
 ## Cadastral, Title & Tenure
 ### Legislation
